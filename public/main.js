@@ -111,12 +111,15 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
 /*********************************************************************************
-*  WEB422 - Assignment 05
+*  WEB422 - Assignment 06
 *  I declare that this assignment is my own work in accordance with Seneca  Academic Policy. No part of this
 *  assignment has been copied manually or electronically from any other source (including web sites) or
 *  distributed to other students.
 *
-*  Name: Alan Vuong____________ Student ID: 149004178_____ Date: March 22nd, 2019
+*  Name: Alan Vuong____________ Student ID: 149004178_____ Date: April 4th, 2019
+*
+*  Heroku Link: _______________________________________________________________
+*
 *********************************************************************************/
 
 
@@ -997,7 +1000,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\AltiV\Documents\WEB422 Assignments\Assignment 6\my-app\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! C:\Users\AltiV\Documents\WEB422 Assignments\Assignment 6 - Copy\my-app\src\main.ts */"./src/main.ts");
 
 
 /***/ })

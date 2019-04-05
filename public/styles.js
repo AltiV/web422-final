@@ -557,7 +557,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\AltiV\Documents\WEB422 Assignments\Assignment 6\my-app\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! C:\Users\AltiV\Documents\WEB422 Assignments\Assignment 6 - Copy\my-app\src\styles.css */"./src/styles.css");
 
 
 /***/ })
